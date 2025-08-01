@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rm2kworld/static/css/main.75757a84.css",
+    "main.js": "/rm2kworld/static/js/main.9919f46f.js",
+    "index.html": "/rm2kworld/index.html",
+    "main.75757a84.css.map": "/rm2kworld/static/css/main.75757a84.css.map",
+    "main.9919f46f.js.map": "/rm2kworld/static/js/main.9919f46f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75757a84.css",
+    "static/js/main.9919f46f.js"
+  ]
+}

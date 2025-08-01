@@ -1,5 +1,5 @@
 {
-  "name": "rioh-resume-site",
+  "name": "rm2kworld",
   "version": "1.0.0",
   "private": true,
   "homepage": "https://riohladines.github.io/rm2kworld",
@@ -25,5 +25,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
